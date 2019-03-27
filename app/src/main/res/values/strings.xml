@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btture">正确</string>
+    <string name="btflte">错误</string>
+    <string name="btXYT">下一题</string>
+    <string name="btDA">查找答案</string>
+    <string name="tvCXFX">重新复习</string>
+    <string name="Answer_Text">您已经查看了答案</string>
+    <string name="About_Me">联系开发者</string>
+</resources>

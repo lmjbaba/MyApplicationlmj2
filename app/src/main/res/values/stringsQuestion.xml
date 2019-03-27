@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yes">回答正确</string>
+    <string name="no">回答错误</string>
+    <string name="last">最后一题了！</string>
+    <string name="Q1">Android项目所有的资源文件都存放在app/java的子目录下</string>
+    <string name="Q2">Android六大基本布局分别是：\n线性布局LinearLayout \n表格布局TableLayout \n相对布局RelativeLayout
+        \n帧布局FrameLayout \n绝对布局AbsoluteLayout \n网格布局GridLayout</string>
+    <string name="Q3">表格布局是线性布局的子类</string>
+    <string name="Q4">网格布局是Android 4.0新增的布局</string>
+    <string name="Q5">android:orientation="vertical" \n组件的排列方向为垂直</string>
+    <string name="Q6">android:orientation="horizontal" \n组件的排列方向为水平</string>
+    <string name="Q7">wrap_content \n根据内容自动调整大小</string>
+    <string name="Q8">match_parent \n与父视图大小相同</string>
+</resources>
